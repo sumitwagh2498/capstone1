@@ -1,0 +1,119 @@
+#bg-image{
+    /* background-image: url( https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80);  */
+    background-image: url(https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?w=1480&t=st=1673936219~exp=1673936819~hmac=3aad72b777bd98d618e2295e80822c8c9c00b52b802880110b51cf7e984af917);
+    height: 100vh;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.nav-logo{
+    display: inline;
+}
+
+.right-nav{
+    display: block;
+    text-align: right ;
+}
+
+#container{
+    justify-content: right;
+    align-items: right;
+}
+
+.quotes{
+    text-align: bottom;
+    
+
+}
+
+
+#header{
+    text-align: right;
+    display: inline-block;
+    
+}
+.nav{ 
+    margin: 8rem;
+	display: inline;
+    text-align: center;
+}
+
+.right-nav{
+	text-align: right;
+}
+
+.title{
+    /* font-family: "Zilla Slab", sans-serif; */
+    font-size: 3em;
+    background-size: 100%;
+    
+}
+
+.footer{
+    text-align: center;
+	padding: .7rem;
+}
+
+.footer span{
+	margin-left: .5rem;
+	margin-right: .5rem;
+}
+
+html{
+    height: 100vh;
+}
+
+section{
+    
+    height: 25vh;
+    text-align: center;
+}
+
+#pre-footer{
+	padding: 2rem 10% 1rem;
+	text-align: center;
+}
+
+#pre-footer{
+	margin-bottom: 1rem;
+}
+
+#pre-footer h3{
+	text-align: center;
+	margin-bottom: 1rem;
+}
+#pre-footer{
+	padding: .7rem;
+}
+
+#pre-footer .pre{
+    display: inline-block;
+    
+        width: 20%;
+        margin-left: .5rem;
+        margin-right: .5rem;
+    /* sets the elements to be aligned at the top of their parent element */
+        vertical-align: top;
+    /* is used to define a minimum height of the element/s */
+        min-height: 175px;
+    }
+
+#pre-footer{
+        padding: .7rem;
+    }
+
+#pre-footer{
+        color: white;
+        font-weight: bold;
+        background-color: grey;
+        font-size: 1rem;
+        /* creates the space between button border ansd text inside */
+        padding: 1rem;
+    }
+
+    .form{
+        text-align: center;
+
+    }
